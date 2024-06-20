@@ -25,7 +25,7 @@ This project implements a simple chatbot in Python that responds to user inputs 
 1. **Navigate to the project directory:**
 
    ```bash
-   cd chatbot-project
+   cd CODSOFT_AI_01
 2. Run the chatbot script:
    ```bash
    python chatbot.py
